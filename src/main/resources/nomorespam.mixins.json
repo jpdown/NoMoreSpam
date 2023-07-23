@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "zip.probablynotavirus.nomorespam.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "nomorespam.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
